@@ -4,6 +4,7 @@
 domain_suffix_set:
   # Neverless 主域
   - neverless.com
+  - app-analytics-services.com
 
 domain_keyword_set:
   # 兜底匹配
