@@ -1,2 +1,4 @@
+rules:
+  # Neverless
  - DOMAIN-SUFFIX: neverless.com
  - DOMAIN-KEYWORD: neverless
