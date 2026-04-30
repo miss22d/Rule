@@ -1,4 +1,7 @@
- # 主域名
+rules:
+  # N26
+  
+  # 主域名
   - DOMAIN-SUFFIX: 26.de
   - DOMAIN-SUFFIX: tech26.de
   - DOMAIN-SUFFIX: number26.de
