@@ -1,22 +1,24 @@
-rules:
-  # N26
-  
+# 规则名称: N26
+# 规则统计: 11
+
+domain_suffix_set:
   # 主域名
-  - DOMAIN-SUFFIX: 26.de
-  - DOMAIN-SUFFIX: tech26.de
-  - DOMAIN-SUFFIX: number26.de
-  - DOMAIN-SUFFIX: n26.com
-  - DOMAIN-SUFFIX: prodregistryv2.org
+  - 26.de
+  - tech26.de
+  - number26.de
+  - n26.com
+  - prodregistryv2.org
 
   # App / API / WebSocket
-  - DOMAIN-SUFFIX: app.n26.com
-  - DOMAIN-SUFFIX: api.n26.com
-  - DOMAIN-SUFFIX: ws.n26.com
+  - app.n26.com
+  - api.n26.com
+  - ws.n26.com
 
   # 客服 / 邮件通知
-  - DOMAIN-SUFFIX: support.n26.com
-  - DOMAIN-SUFFIX: email.n26.com
-  - DOMAIN-SUFFIX: emails.n26.com
+  - support.n26.com
+  - email.n26.com
+  - emails.n26.com
 
+domain_keyword_set:
   # 关键词兜底
-  - DOMAIN-KEYWORD: n26
+  - n26
