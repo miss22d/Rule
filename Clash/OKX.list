@@ -1,0 +1,11 @@
+# OKX
+
+# OKX 主站及相关域名
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+
+# App / 客户端关键词
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,okex
+DOMAIN-KEYWORD,oklink
