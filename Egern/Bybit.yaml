@@ -1,3 +1,4 @@
+rules:
   # Bybit 官方域名
   - DOMAIN: bybit-exchange.github.io
   - DOMAIN: bybit.ada.support
