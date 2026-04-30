@@ -1,4 +1,6 @@
-# Wise 官方主域和 API（全子域匹配）
+rules:
+
+  # Wise 官方主域和 API（全子域匹配）
   - DOMAIN-SUFFIX: wise.com
   - DOMAIN-SUFFIX: transferwise.com
   - DOMAIN-SUFFIX: wise.co
