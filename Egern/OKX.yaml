@@ -1,4 +1,5 @@
- # OKX 主站及相关域名
+rules:
+  # OKX 主站及相关域名
   - DOMAIN-SUFFIX: okx.com
   - DOMAIN-SUFFIX: okex.com
   - DOMAIN-SUFFIX: oklink.com
