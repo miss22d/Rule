@@ -1,0 +1,41 @@
+  # Bybit 官方域名
+  - DOMAIN: bybit-exchange.github.io
+  - DOMAIN: bybit.ada.support
+  - DOMAIN: app-measurement.com
+  - DOMAIN: monitor-frontend-collector.a.bybit-aws.com
+
+  # Bybit 主站及相关子域
+  - DOMAIN-SUFFIX: bybit.com
+  - DOMAIN-SUFFIX: bybit.biz
+  - DOMAIN-SUFFIX: bybit-global.com
+  - DOMAIN-SUFFIX: bybit.cloud
+  - DOMAIN-SUFFIX: bybitglobal.com
+  - DOMAIN-SUFFIX: bycsi.com
+  - DOMAIN-SUFFIX: bytick.com
+  - DOMAIN-SUFFIX: byapis.com
+  - DOMAIN-SUFFIX: bycbe.com
+  - DOMAIN-SUFFIX: bymj.io
+  - DOMAIN-SUFFIX: byabcde.com
+  - DOMAIN-SUFFIX: byapps.net
+  - DOMAIN-SUFFIX: byd3c3.com
+  - DOMAIN-SUFFIX: bybdc6.com
+  - DOMAIN-SUFFIX: appsflyer.com
+
+  # 其他可能被使用的特殊域
+  - DOMAIN-SUFFIX: ffbbbdc6d3c353211fe2ba39c9f744cd.com
+  - DOMAIN-SUFFIX: ffe390afd658c19dcbf707e0597b846d.de
+
+  # App/验证/归因相关关键词域
+  - DOMAIN-KEYWORD: myfin
+  - DOMAIN-KEYWORD: bitverse
+  - DOMAIN-KEYWORD: geetest
+  - DOMAIN-KEYWORD: appsflyersdk
+
+  # Bybit IP
+  - IP-CIDR: 13.32.121.6/32
+  - IP-CIDR: 43.133.238.145/32
+  - IP-CIDR: 13.33.187.108/32
+  - IP-CIDR: 150.109.230.182/32
+  - IP-CIDR: 142.251.215.234/32
+  - IP-CIDR: 43.133.241.84/32
+  - IP-CIDR: 3.160.150.37/32
