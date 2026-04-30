@@ -1,0 +1,7 @@
+# Neverless
+
+# Neverless 主域
+DOMAIN-SUFFIX,neverless.com
+
+# 兜底匹配
+DOMAIN-KEYWORD,neverless
