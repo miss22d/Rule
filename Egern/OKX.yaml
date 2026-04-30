@@ -1,0 +1,14 @@
+ # OKX 主站及相关域名
+  - DOMAIN-SUFFIX: okx.com
+  - DOMAIN-SUFFIX: okex.com
+  - DOMAIN-SUFFIX: oklink.com
+
+  # OKX WebSocket/交易API域名
+  - DOMAIN-SUFFIX: ws.okx.com
+  - DOMAIN-SUFFIX: api.okx.com
+  - DOMAIN-SUFFIX: wspap.okx.com
+
+  # App/客户端相关关键词
+  - DOMAIN-KEYWORD: okx
+  - DOMAIN-KEYWORD: okex
+  - DOMAIN-KEYWORD: oklink
