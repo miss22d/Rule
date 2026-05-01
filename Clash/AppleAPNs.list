@@ -1,3 +1,6 @@
+# 规则名称: Apple Push (推测)
+# 规则统计: 11
+
 DOMAIN,identity.apple.com
 DOMAIN-SUFFIX,push.apple.com
 IP-CIDR,17.188.128.0/18,no-resolve
