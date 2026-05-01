@@ -1,7 +1,9 @@
-# N26
+# 规则名称: N26
+# 规则统计: 6
 
 DOMAIN-SUFFIX,26.de
 DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,number26.de
 DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,n26.de
 DOMAIN-SUFFIX,prodregistryv2.org
