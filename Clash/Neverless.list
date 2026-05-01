@@ -1,7 +1,4 @@
-# Neverless
+# 规则名称: Neverless
+# 规则统计: 1
 
-# Neverless 主域
 DOMAIN-SUFFIX,neverless.com
-
-# 兜底匹配
-DOMAIN-KEYWORD,neverless
