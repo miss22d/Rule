@@ -1,13 +1,8 @@
-# Wise
+# 规则名称: Wise
+# 规则统计: 5
 
-# Wise 官方主域和 API（全子域匹配）
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wi.se
 DOMAIN-SUFFIX,wise.co
 DOMAIN-SUFFIX,wiseapp.com
-
-# App/验证/归因相关关键词域
-DOMAIN-KEYWORD,wiseapp
-DOMAIN-KEYWORD,transferwise
-DOMAIN-KEYWORD,wisepay
-DOMAIN-KEYWORD,wiseapi
