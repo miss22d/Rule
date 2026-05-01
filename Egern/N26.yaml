@@ -1,24 +1,9 @@
 # 规则名称: N26
-# 规则统计: 11
-
+# 规则统计: 6
 domain_suffix_set:
-  # 主域名
   - 26.de
   - tech26.de
   - number26.de
   - n26.com
+  - n26.de
   - prodregistryv2.org
-
-  # App / API / WebSocket
-  - app.n26.com
-  - api.n26.com
-  - ws.n26.com
-
-  # 客服 / 邮件通知
-  - support.n26.com
-  - email.n26.com
-  - emails.n26.com
-
-domain_keyword_set:
-  # 关键词兜底
-  - n26
