@@ -1,10 +1,4 @@
 # 规则名称: Neverless
-# 规则统计: 2
-
+# 规则统计: 1
 domain_suffix_set:
-  # Neverless 主域
   - neverless.com
-
-domain_keyword_set:
-  # 兜底匹配
-  - neverless
