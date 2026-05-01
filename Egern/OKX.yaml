@@ -1,19 +1,6 @@
 # 规则名称: OKX
-# 规则统计: 6
-
+# 规则统计: 3
 domain_suffix_set:
-  # OKX 主站及相关域名
   - okx.com
   - okex.com
   - oklink.com
-
-  # OKX WebSocket / 交易 API 域名
-  - ws.okx.com
-  - api.okx.com
-  - wspap.okx.com
-
-domain_keyword_set:
-  # App / 客户端关键词
-  - okx
-  - okex
-  - oklink
