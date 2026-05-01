@@ -1,14 +1,9 @@
 # 规则名称: Bybit
-# 规则统计: 31
-
+# 规则统计: 26
 domain_suffix_set:
-  # Bybit 官方域名
   - bybit-exchange.github.io
   - bybit.ada.support
-  - app-measurement.com
   - monitor-frontend-collector.a.bybit-aws.com
-
-  # Bybit 主站及相关子域
   - bybit.com
   - bybit.biz
   - bybit-global.com
@@ -23,25 +18,16 @@ domain_suffix_set:
   - byapps.net
   - byd3c3.com
   - bybdc6.com
-  - appsflyer.com
-
-  # 其他可能被使用的特殊域
-  - ffbbbdc6d3c353211fe2ba39c9f744cd.com
-  - ffe390afd658c19dcbf707e0597b846d.de
 
 domain_keyword_set:
-  # App/验证/归因相关关键词域
-  - myfin
   - bitverse
   - geetest
   - appsflyersdk
 
 ip_cidr_set:
-  # Bybit IP
   - 13.32.121.6/32
   - 43.133.238.145/32
   - 13.33.187.108/32
   - 150.109.230.182/32
-  - 142.251.215.234/32
   - 43.133.241.84/32
   - 3.160.150.37/32
