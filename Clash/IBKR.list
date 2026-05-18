@@ -1,0 +1,11 @@
+# 规则名称: IBKR
+# 规则统计: 9
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibllc
