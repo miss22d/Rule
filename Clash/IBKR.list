@@ -1,4 +1,4 @@
-# 规则名称: IBKR
+# 规则名称: IBKR 盈透
 # 规则统计: 9
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
