@@ -1,0 +1,8 @@
+# 规则名称: CharlesSchwab
+# 规则统计: 6
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabapi.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tos.mx
+DOMAIN-KEYWORD,thinkorswim
