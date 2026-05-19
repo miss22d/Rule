@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,wi.se
 DOMAIN-SUFFIX,wise.co
 DOMAIN-SUFFIX,wiseapp.com
+
+# 规则名称: iFASTGlobalBank
+# 规则统计: 1
+DOMAIN-SUFFIX,ifastgb.com
