@@ -1,14 +1,5 @@
 # 规则名称: Brokerage（证券）
 
-# 规则名称: Schwab 嘉信
-DOMAIN-SUFFIX,schwab.com
-DOMAIN-SUFFIX,schwabcdn.com
-DOMAIN-SUFFIX,schwabapi.com
-DOMAIN-SUFFIX,thinkorswim.com
-DOMAIN-SUFFIX,tos.mx
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-KEYWORD,thinkorswim
-
 # 规则名称: uSMART 盈立
 DOMAIN-SUFFIX,usmartsg.com
 
@@ -25,3 +16,12 @@ DOMAIN-SUFFIX,ibllc.com.cn
 DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,ibllc
+
+# 规则名称: Schwab 嘉信
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabapi.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tos.mx
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-KEYWORD,thinkorswim
