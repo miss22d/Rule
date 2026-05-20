@@ -1,9 +1,0 @@
-# 规则名称: Schwab 嘉信
-# 规则统计: 7
-DOMAIN-SUFFIX,schwab.com
-DOMAIN-SUFFIX,schwabcdn.com
-DOMAIN-SUFFIX,schwabapi.com
-DOMAIN-SUFFIX,thinkorswim.com
-DOMAIN-SUFFIX,tos.mx
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-KEYWORD,thinkorswim
