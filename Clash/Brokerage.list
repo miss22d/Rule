@@ -1,16 +1,5 @@
 # 规则名称: Brokerage（证券）
 
-# 规则名称: IBKR盈透
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,interactivebrokers.com.hk
-DOMAIN-SUFFIX,ibkrguides.com
-DOMAIN-SUFFIX,ibllc.com
-DOMAIN-SUFFIX,ibllc.com.cn
-DOMAIN-KEYWORD,ibkr
-DOMAIN-KEYWORD,interactivebrokers
-DOMAIN-KEYWORD,ibllc
-
 # 规则名称: Schwab 嘉信
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,schwabcdn.com
@@ -25,3 +14,14 @@ DOMAIN-SUFFIX,usmartsg.com
 
 # 规则名称: 复星
 DOMAIN-SUFFIX,fosunhanig.com
+
+# 规则名称: IBKR盈透
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibllc
