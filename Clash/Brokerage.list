@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,usmartsg.com
 # 规则名称: 复星
 DOMAIN-SUFFIX,fosunhanig.com
 
+# 规则名称: Firstrade第一证券
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,firstrade.net
+
 # 规则名称: IBKR盈透
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
