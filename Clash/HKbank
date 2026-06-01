@@ -1,0 +1,24 @@
+# 规则名称：HongKongBank（港卡）
+
+# 规则名称：BOCHK 中银香港
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,boci.com.hk
+
+# 规则名称：HSBC 汇丰香港
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.com.hk
+
+# 规则名称：Hang Seng 恒生银行
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+
+# 规则名称：ZA Bank 众安银行
+DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,zatech.com
+
+# 规则名称：香港金融基础设施
+DOMAIN-SUFFIX,jetco.com.hk
+DOMAIN-SUFFIX,hkicl.com.hk
+
+# 规则名称：银行风控
+DOMAIN-SUFFIX,iovation.com
