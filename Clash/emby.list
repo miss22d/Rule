@@ -1,2 +1,5 @@
 # 规则名称: 守候网络emby(ncdn1.sntp.uk)
 DOMAIN-SUFFIX,lite.cn2gias.uk
+
+# 步兵营
+DOMAIN-SUFFIX,https://bb.emby.edu.kg
