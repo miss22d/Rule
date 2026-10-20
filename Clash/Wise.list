@@ -10,3 +10,8 @@ DOMAIN-SUFFIX,wiseapp.com
 # 规则名称: ifast 英国
 # 规则统计: 1
 DOMAIN-SUFFIX,ifastgb.com
+
+# 规则名称: 卡巴斯基
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,kaspersky.com.cn
