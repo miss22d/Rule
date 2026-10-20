@@ -1,12 +1,7 @@
 # 规则名称: Steam（商店 / 社区 / 图片 / 聊天，走代理）
 # 规则统计: 27
-# 说明: 本列表只含需要代理的部分，不含国内下载 CDN。
-#       使用时须在本规则之前放直连规则，否则下载、联机、付款也会走代理：
-#       - DOMAIN,checkout.steampowered.com,DIRECT
-#       - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
-#       - DOMAIN-SUFFIX,steamcontent.com,DIRECT
-#       - DOMAIN-SUFFIX,steamserver.net,DIRECT
-#       - DOMAIN-SUFFIX,steamchina.com,DIRECT
+# 说明: 本列表只含需要代理的部分，策略选代理。
+#       须放在 SteamCN.list（直连）之后，否则下载、联机、付款也会走代理。
 # 来源: 精简自 blackmatrix7/ios_rule_script rule/Clash/Steam
 
 # 商店 / 社区 / 账户

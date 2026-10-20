@@ -1,0 +1,32 @@
+# 规则名称: SteamCN（下载 / 联机 / 付款，走直连）
+# 规则统计: 18
+# 说明: 须放在 Steam.list 之前，策略选 DIRECT。
+# 来源: blackmatrix7/ios_rule_script rule/Clash/SteamCN，另加付款页
+
+# 付款页（显示国内 IP，避免账号被判为外区）
+DOMAIN,checkout.steampowered.com
+
+# 客户端连接 / 游戏服务器
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+
+# 下载内容
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamchina.com
+
+# 国内下载 CDN
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,xz.pphimalayanrt.com
+
+# 完美世界（CS2 / Dota 2 国服）
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dota2.wmsj.cn
+DOMAIN,wmsjsteam.com
